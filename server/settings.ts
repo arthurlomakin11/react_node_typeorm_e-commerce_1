@@ -1,0 +1,6 @@
+const settings = {
+    pass: `P+pkAJLOu3BltYiiC8kdMKXxNGIIDyQF6GBp1U+/Fh/aVXMbk6YLBGtWQx9vRqfeVY6vPseurJWR0guD25R2T11vyPpHtcBicc3ZiARm10J3leaTNdVqW4mHTLxXFEGq4LDMc6Mmwz12LUE9hf+whGrHDvDGLqb4j2sGKPi79KmxarJj7ZOFZ41NlTJkKeec8Ys7EvV72fkiMAXknUoGxfW5mOp9ygxadjj2K8nG2MsJ7w0fpqy/amWzaS/jhnmz0duIBw4Gtq12oMiSAGMgDOn9hYtGuYIGAmRjqGpG8iNkONqKtaQ9m6npKJWfCzJkWZ9AGM5O65sX5TG58E+3nA==`,
+    port: 3001
+}
+
+export default settings

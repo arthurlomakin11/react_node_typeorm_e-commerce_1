@@ -1,0 +1,23 @@
+{
+   "type": "mssql",
+   "host": "DESKTOP-12345",
+   "username": "admin",
+   "password": "",
+   "database": "test",
+   "synchronize": false,
+   "logging": false,
+   "entities": [
+      "data/entities/**/*.{.js,.ts}"
+   ],
+   "migrations": [
+      "data/migrations/**/*{.js,.ts}"
+   ],
+   "subscribers": [
+      "data/subscribers/**/*.{.js,.ts}"
+   ],
+   "cli": {
+      "entitiesDir": "data/entities",
+      "migrationsDir": "data/migrations",
+      "subscribersDir": "data/subscribers"
+   }
+}
